@@ -1,0 +1,70 @@
+body{
+    background-color: white;
+    border: 2px solid red;
+}
+
+.heading{
+    background-image: url("./images/back.webp");
+}
+.heading h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: Helvetica;
+font-weight: bold;
+color:khaki;
+}
+
+.Brush h3{
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+.price{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue; 
+}
+
+.frames h3{
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+.frate{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue; 
+}
+
+.paint h3{
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+.prate{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue; 
+}
+
+#head{
+    font-weight: bold;
+}
+#tit{
+    font-weight: bold;
+}
+
+#ptit{
+    font-weight: bold;
+}
+
+
+
+
+
